@@ -1,0 +1,119 @@
+.center{
+    height:2550px ;
+    margin-top:22px;
+}
+.center >.left{
+    float:left;
+    width:820px;
+    height: 1970px ;
+    /* border:1px solid #F9BE04; */
+    margin-bottom: 20px;
+
+}
+.center .top{
+    width:820px;
+    height:20px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #363636;
+    margin-bottom: 20px;
+}
+.center .top a{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #363636;
+}
+.center > .left .txt{
+    background: #fff;
+    width:820px;
+    height:1930px ;
+}
+.center .left .txt .title{
+    font-family: PingFangSC-Medium;
+    font-size: 20px;
+    color: #363636;
+    margin:0px 42px 13px;
+    padding-top:37px;
+    line-height: 28px;
+    text-align: center;
+}
+
+.center .left .txt .user{
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #AEAEAE;
+    margin:0px 42px 13px;
+    line-height: 20px;
+    text-align: center;
+    
+    
+}
+.center .left .txt .nr{
+    font-family: PingFangSC-Medium;
+    font-size: 15px;
+    color: #363636;
+    line-height: 25px;
+    margin:0px 42px 13px;
+    line-height: 25px;
+    border-top:1px solid #EBEBEB;
+}
+.center .left .txt .nr>img{
+    width:700px;
+    height:512px;
+    margin:20px 20px ;
+}
+.center .left .txt .nr .code{
+    width:208px;
+    height:208px;
+    margin:auto;
+}
+.center .left .txt .nr .code img{
+    font-size: 100%;
+}
+
+.center .left .txt .nr > p {
+    text-indent: 2em;
+    margin-bottom:20px;
+}
+.center .left .txt .nr .page a{
+    font-size: 14px;
+    color: #206698;
+}
+.center .left .txt .nr .page .bottom_page{
+    float: right;
+}
+.center .left .txt .nr .page .top_page{
+    float: left;
+}
+.center .left .txt .toupiao p {
+    margin:0px 42px 17px;
+    font-family: PingFangSC-Regular;
+    font-size: 15px;
+    color: #363636;
+}
+.center .left .txt .toupiao p img{
+    width:20px;
+    height:20px;
+}
+.center .left .txt .toupiao p button{
+    background: #F9BE04;
+    border-radius: 2px;
+    font-family: PingFangSC-Regular;
+    font-size: 16px;
+    color: #FFFFFF;
+    border:none;
+    width:100px;
+    height:36px;
+    margin:7px 0px 48px;  
+}
+
+.contribute{
+    width:280px;
+    height:46px;
+    background: #F9BE04;
+    font-size: 16px;
+    color: #363636;
+    line-height: 48px;
+    text-align: center;
+
+}

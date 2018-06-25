@@ -1,0 +1,66 @@
+.one > .right  .title_notice1,
+.one > .right  .title_notice2{
+    width:92px;
+    height: 32px;
+    color: #fff;
+    font-family: PingFangSC-Medium;
+    font-size: 14px;
+    line-height: 32px;
+    text-align: center;
+    margin:15px auto 15px 0px;
+}
+.one > .right  .title_notice1{
+    background: #206698;
+}
+.one > .right  .title_notice2{
+    background: #F9BE04;
+}
+
+.one .right ul li {
+    list-style: disc;    
+    color: #F9BE04;
+    
+}
+.one .right .notice1 li {
+    color: #F9BE04;
+}
+
+
+
+.one .right ul li{
+    margin-left:30px;
+    margin-bottom: 17px;
+    font-family: PingFangSC-Regular;
+    font-size: 14px;
+    color: #363636;
+}
+
+.three{
+    width:1120px;
+    height:230px;
+    background: #fff;
+}
+.three span{
+    display: inline-block;
+    width:92px;
+    height: 32px;
+    background:#206698;
+    color:#fff;
+    font-size: 14px;
+    line-height: 32px;
+    text-align: center;
+    margin:17px auto 21px 0px;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.three ul li{
+    float:left;
+    margin-left:20px;
+    width:134px;
+    height:54px;
+    margin-bottom: 17px;
+}
+.three ul li a img{
+    width:100%;
+    height:100%;
+}
